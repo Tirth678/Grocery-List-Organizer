@@ -1,0 +1,30 @@
+Here is the categorized and sorted list of grocery items:
+
+**Produce**
+
+1. Apples
+2. Bananas
+3. Carrots
+4. Spinach
+5. Tomatoes
+
+**Dairy**
+
+1. Cheese
+2. Eggs
+3. Milk
+4. Yogurt
+
+**Meat**
+
+1. Chicken Breast
+2. Ground Beef
+
+**Bakery**
+
+1. Bread
+
+**Pantry/ Cereal**
+
+1. Cereal
+2. Pasta

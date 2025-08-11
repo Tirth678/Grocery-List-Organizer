@@ -1,7 +1,7 @@
 import ollama
 import os
 
-model = "llama3.2"
+model = "llama3.2:1b"
 
 # Paths to input and output files
 input_file = "./data/grocery_list.txt"
