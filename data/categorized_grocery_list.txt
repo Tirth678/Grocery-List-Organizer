@@ -1,30 +1,64 @@
-Here is the categorized and sorted list of grocery items:
+Here is the categorized list of grocery items:
 
-**Produce**
-
-1. Apples
-2. Bananas
-3. Carrots
-4. Spinach
-5. Tomatoes
-
-**Dairy**
-
-1. Cheese
-2. Eggs
-3. Milk
-4. Yogurt
-
-**Meat**
-
-1. Chicken Breast
-2. Ground Beef
 
 **Bakery**
+• Almond milk unsweetened vanilla
+• Apple cider vinegar
+• Bread ( unspecified type)
 
-1. Bread
 
-**Pantry/ Cereal**
+**Beverages**
+• 4-pack yogurt drink - strawberry
+• Cold brew concentrate
+• Canned chickpeas x3
+• Frozen mixed berries 2 lb
+• Milk, lactose-free 2% - half gallon
+• Orange juice, no pulp 59 oz
+• Sparkling water - lime 12-pack
 
-1. Cereal
-2. Pasta
+
+**Dairy**
+• Butter, unsalted 1 lb
+• Cheddar cheese block, sharp 8 oz
+• Greek yogurt 2% 32 oz tub
+• Mozzarella fresh (ball) 14 oz
+• Parmesan wedge
+• Tofu extra firm, 14 oz
+
+
+**Meat**
+• Basmati rice 10 lb bag
+• Black beans (no salt added) x2
+• Chicken thighs, bone-in skin-on ~3 lb
+• Ground beef 85/15, 2 lb
+• Jalapeños (4)
+• Pork sausage ( unspecified type)
+
+
+**Produce**
+1. Baby spinach 10 oz
+2. Broccoli crowns
+3. Carrots, organic 2 lb
+4. Cherry tomatoes, 1 pint
+5. Cilantro - 1 bunch
+6. Fresh green onions / scallions
+7. Fuji apples (6)
+8. Garlic - 2 heads
+9. Green onions / scallions
+10. Kale ( unspecified type)
+11. Mixed greens ( unspecified type)
+12. Mushrooms ( unspecified type)
+13. Olive oil extra-virgin 1 L
+14. Onion ( unspecified type)
+15. Papaya ( unspecified type)
+16. Potatoes, Russet 5 lb bag
+17. Radishes ( unspecified type)
+18. Tomatillos (Roma) 6
+19. Tomatoes - canned 28 oz x2
+
+
+**Pantry**
+• Active dry yeast
+• All-purpose flour 5 lb
+• Brown sugar (dark)
+• Quinoa 2 lb

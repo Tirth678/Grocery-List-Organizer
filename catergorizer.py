@@ -40,7 +40,7 @@ Please:
 try:
     response = ollama.generate(model=model, prompt=prompt)
     generated_text = response.get("response", "")
-    print("==== Categorized List: ===== \n")
+    print("==== Categorized List: =====(Harder Set) \n")
     print(generated_text)
 
     # Write the categorized list to the output file
